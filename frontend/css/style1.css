@@ -1,0 +1,17 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300;600&display=swap');
+body{
+    background-color: gainsboro;
+    font-family: 'Kanit', sans-serif;
+}
+.card{
+    background: #8a8a8a;
+} */
+.cascading-right {
+    margin-right: -50px;
+  }
+
+  @media (max-width: 991.98px) {
+    .cascading-right {
+      margin-right: 0;
+    }
+  }
